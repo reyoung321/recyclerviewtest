@@ -15,7 +15,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
-
+//it has bug
 public class MainActivity extends AppCompatActivity {
 RecyclerView recyclerView;
 DatabaseReference reference;
